@@ -6,6 +6,8 @@
 /* impostazioni header */
 header{
     background-color: white;
+    line-height: 60px; 
+
 }
 
 header h1{
@@ -15,8 +17,8 @@ header h1{
 
 #logo{
     height: 60px;
-    line-height: 60px; 
     vertical-align: middle;
+    display: inline;
     margin: 10px;
 }
 /* corpo principale */
