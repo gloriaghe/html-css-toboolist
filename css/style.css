@@ -51,7 +51,7 @@ body{
 
 /* macrotitoli */
 
-#check{
+#lista{
     padding: 40px;
     line-height: 30px;
 }
@@ -87,4 +87,22 @@ body{
 
 .sales{
     background-color: greenyellow;
+}
+
+.simbolo{
+    border-radius: 50%;
+    padding: 3px;
+    background-color: white;
+    font-size: small;
+}
+
+
+.check{
+    border: 1px solid green;
+    color: green;
+}
+
+.croce{
+    border: 1px solid red;
+    color:  red;   
 }
