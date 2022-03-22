@@ -68,3 +68,23 @@ body{
     color: white;
     font-size: small;
 }
+
+.goals{
+    background-color: blueviolet;
+}
+
+.recruiting{
+    background-color: rgb(151, 238, 151);
+}
+
+.mobile{
+    background-color: orange;
+}
+
+.web{
+    background-color: purple;
+}
+
+.sales{
+    background-color: greenyellow;
+}
