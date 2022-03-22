@@ -38,5 +38,13 @@ body{
 }
 
 #task{
-    background-color: aqua;
+    background-color:rgb(0, 217, 255) ;
+    border-color:rgb(0, 217, 255);
+    color: white;
+}
+
+#addsection{
+    background-color: white;
+    border-color: #ccc;
+    color: #ccc;
 }
